@@ -39,4 +39,14 @@ The analysis was conducted using R and includes the following steps:
 - prophet package
 - ggplot2
 
+## 📊 Visualizations
+### Diabetes Trend Over Time
+![Diabetes Trend](output/diabetes_trend1.png)
+
+### ARIMA Forecast
+![Forecast](output/forecast.png)
+
+### Obesity vs Diabetes Relationship
+![Correlation](output/correlation_plot.png)
+
 
