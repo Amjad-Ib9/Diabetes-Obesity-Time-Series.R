@@ -44,7 +44,7 @@ The analysis was conducted using R and includes the following steps:
 ![Diabetes Trend](output/diabetes_trend1.png)
 
 ### ARIMA Forecast
-![Forecast](output/forecast.png)
+![Forecast](output/forecast.arima.png)
 
 ### Obesity vs Diabetes Relationship
 ![Correlation](output/correlation_plot.png)
